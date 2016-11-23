@@ -4,6 +4,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neson/react-native-system-notification"
+
   },
   "nativePackage": true,
   "description": "Notification for React Native",
